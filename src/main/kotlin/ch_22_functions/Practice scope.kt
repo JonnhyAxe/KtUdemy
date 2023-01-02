@@ -1,0 +1,10 @@
+fun main(args: Array<String>) {
+    val year = 2015
+    printYear()
+    println("The year inside ch_25_oop.ch_25_oop.ch_25_oop.ch_25_oop.ch_25_oop.ch_25_oop.ch_25_oop.ch_25_oop.ch_25_oop.ch_25_oop.ch_25_oop.ch_27_oop_principles.ch_27_oop_principles.ch_27_oop_principles.ch_27_oop_principles.ch_27_oop_principles.ch_27_oop_principles.ch_27_oop_principles.ch_27_oop_principles.ch_27_oop_principles.ch_27_oop_principles.ch_27_oop_principles.ch_27_oop_principles.ch_28_interfaces.ch_28_interfaces.ch_28_interfaces.ch_28_interfaces.ch_28_interfaces.ch_28_interfaces.ch_28_interfaces.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_29_standard_functions.ch_33_coroutines.ch_33_coroutines.ch_33_coroutines.ch_33_coroutines.ch_33_coroutines.ch_33_coroutines.ch_33_coroutines.ch_33_coroutines.ch_33_coroutines.ch_30_class_type.ch_30_class_type.ch_30_class_type.ch_30_class_type.ch_30_class_type.ch_30_class_type.ch_30_class_type.ch_30_class_type.ch_30_class_type.ch_30_class_type.ch_30_class_type.ch_30_extensions.ch_30_extensions.ch_30_extensions.ch_30_extensions.ch_30_extensions.ch_30_extensions.ch_30_extensions.ch_32_generics.ch_32_generics.ch_32_generics.ch_32_generics.ch_32_generics.ch_32_generics.ch_34_others.ch_34_others.ch_34_others.ch_34_others.ch_34_others.ch_34_others.ch_34_others.ch_34_others.ch_34_others.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.ch_26_oop.main is $year")
+}
+
+fun printYear() {
+    val year = 1985
+    println("The year inside the function is $year")
+}
